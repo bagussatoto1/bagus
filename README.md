@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img width="230" src="https://avatars.githubusercontent.com/u/87259393?v=4" />  
+  <img width="250" src="https://avatars.githubusercontent.com/u/87259393?v=4" />  
   <h2 align="center"> My Github Profile </h2>
   <p align="center">🏆 Achievements In Writing program Code 🏆</p>
 </p>
@@ -34,8 +34,8 @@
 <!-- Profile -->
 <h1 align="center" > Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm BAGUS BUDI SATOTO</h1>
 <h2 align="center"> 📌 I'm a student at Universitas Amikom Yogyakarta, Indonesia.</h2>
-<h2 align="center">  Major Bachelor of Informatics</h2>
-<h3 align="center"> 🧑🏽‍💻 Profession Data Administrator At Telkom Yogyakarta</h3>
+<h2 align="center">  Major Bachelor of Informatics.</h2>
+<h3 align="center"> 🧑🏽‍💻 Practicum Assistant in Universitas Amikom Yogyakarta.</h3>
 <h3 align="center"> 🖥️ Web Developer and Software Enginnering 🖥️</h3><br>
 <!-- End -->
 
@@ -283,7 +283,15 @@
 <!-- https://platane.github.io/snk/ -->
 
  <p align="center">
-   <img src="https://user-images.githubusercontent.com/87259393/190566478-8f075974-72c3-4aaa-97b4-fd2ba7e7dfea.svg"?raw=true" alt="snake" width="1000"/>
+   <img src="https://user-images.githubusercontent.com/87259393/209421006-a82cfeb5-7129-418f-b9d4-c9fa0503611d.svg?raw=true" alt="snake" width="1000"/>
+
+
+                                                                                                                          
+
+
+
+
+
 
 
 
@@ -294,7 +302,7 @@
 
 
 <!-- Profile
-<br>
+
 <h2 align="Left"></h2>
 <a href="https://github.com/bagussatoto/bagussatoto" target="_blank">💻 My Repositories</a>
 End -->
